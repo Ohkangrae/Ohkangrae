@@ -1,9 +1,10 @@
+
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=fbfefc&color=0:0091E0,100:0079bb)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=00cc99&color=0:0091E0,100:0079bb)
 
 <h2 align="center">📚 Tech Stack 📚</h2>
-<h3 align="center">🏃Techs that I've used</h3><br>
+<h3 align="center">🏃Techs that I've used🚶</h3><br>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -17,6 +18,7 @@
 
  
 </p>
+
  
   <br>
 
@@ -52,5 +54,18 @@
 
  Click to go😉
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhgangrae&count_bg=%2300C988&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgangrae&show_icons=true&theme=high)
+
+
+
+
+
+
+
+
 
  </div>
+
+ 
