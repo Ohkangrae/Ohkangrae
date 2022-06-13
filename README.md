@@ -1,19 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh🍊&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=191970&color=0:F4A500,100:F4A500)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=fbfefc&color=0:0091E0,100:0079bb)
 
 <h2 align="center">📚 Tech Stack 📚</h2>
 <h3 align="center">🏃Techs that I've used</h3><br>
@@ -66,5 +53,3 @@
  Click to go😉
 
  </div>
-
- 
