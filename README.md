@@ -3,6 +3,9 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=00cc99&color=0:0091E0,100:0079bb)
 
+<img src="https://user-images.githubusercontent.com/98381511/177118622-fa4a4ed6-fa33-401a-a29e-743bc9349228.gif" width="50%">
+
+
 <h2 align="center">📚 Tech Stack 📚</h2>
 <h3 align="center">🏃Techs that I've used🚶</h3><br>
 
