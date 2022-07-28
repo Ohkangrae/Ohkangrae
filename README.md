@@ -13,7 +13,7 @@
 <h2>🎈About Me🎈</h2>
 🎓Graduated The University of Suwon, 컴퓨터학부 (미디어SW)전공<br>
 📜Certificated Korea IT program in Seoul<br>
-  
+  💌Email : oasisoyw@naver.com<br>
   
 
 
