@@ -57,7 +57,7 @@
  
 </p>
 <br><br>
-<p>👇Connect with kangraeOh</p>
+<h4>👇Connect with kangraeOh
 
 <p>
 
