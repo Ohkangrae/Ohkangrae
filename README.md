@@ -18,7 +18,7 @@
 
 <br><br>
 <h2 align="center">📚 Tech Stack 📚</h2>
-<h3 align="center">🏃Techs that I've used🚶</h3><br>
+<h3 align="center">🏃Techs that I've used🚶</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -57,7 +57,7 @@
  
 </p>
 <br><br>
-### 👇Connect with kangraeOh
+👇Connect with kangraeOh
 
 <p>
 
