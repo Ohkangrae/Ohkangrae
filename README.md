@@ -3,7 +3,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=00cc99&color=0:0091E0,100:0079bb)
 
-<h2>✨Hello, I'm Ohkangrae!✨</h2>
+<h2>✨Hello, I'm kangrae!✨</h2>
 
 안녕하세요! 백엔드 개발자를 준비하고 있는 오강래입니다<br>
 
