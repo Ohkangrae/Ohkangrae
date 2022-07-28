@@ -3,8 +3,14 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&animation=twinkling&text=kangraeOh&fontAlign=25&fontAlignY=40&fontSize=50&fontColor=00cc99&color=0:0091E0,100:0079bb)
 
+<h2>✨Hello, I'm Ohkangrae!✨</h2>
 
+안녕하세요! 백엔드 개발자를 준비하고 있는 오강래입니다<br>
 
+<h2>🎈About Me🎈</h2>
+🎓Graduated The University of Suwon, 컴퓨터학부 (미디어SW)전공<br>
+📜Certificated Korea IT program in Seoul<br>
+💌Email : oasisoyw@naver.com<br>
 
 <h2 align="center">📚 Tech Stack 📚</h2>
 <h3 align="center">🏃Techs that I've used🚶</h3><br>
