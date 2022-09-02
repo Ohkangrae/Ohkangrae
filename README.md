@@ -66,7 +66,7 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgangrae&show_icons=true&theme=high)
+
 
 
 
